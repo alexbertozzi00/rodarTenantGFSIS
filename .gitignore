@@ -1,0 +1,6 @@
+# Configuracao local (pode conter senha)
+.env
+
+# Resultados salvos pelo menu
+resultado-*.txt
+resultado-*.csv
